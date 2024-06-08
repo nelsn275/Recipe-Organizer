@@ -3,7 +3,7 @@
 This is a Recipe Organizer that I built to help my wife keep track of all the recipes she likes to use. She is a food science major and always trying out new things so I built her an app to keep track of her recipes.
 
 
-[Demo Video](https://youtu.be/M9dUbLxzDpA))
+[Demo Video](https://youtu.be/M9dUbLxzDpA)
 
 # Development Environment
 
