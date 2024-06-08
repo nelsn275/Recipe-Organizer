@@ -1,11 +1,7 @@
 # Overview
 
-
-
 This is a Recipe Organizer that I built to help my wife keep track of all the recipes she likes to use. She is a food science major and always trying out new things so I built her an app to keep track of her recipes.
 
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
